@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Taxassist Pro</string>
+    <string name="income">05. Arrear pay (if not included in taxable income earlier)</string>
+    <string name="income2">17. Employer’s contribution to a recognized provident fund</string>
+    <string name="income3">18. Interest accrued on a recognized provident fund </string>
+    <string name="income4">20. Deemed income for free furnished/unfurnished accommodation</string>
+    <string name="property">03A Address of the property</string>
+    <string name="p2">05. Deductions (aggregate of 05A to 05G) </string>
+    <string name="p3">05D Interest on Loan/Mortgage/Capital Charge</string>
+    <string name="p4">07. Incase of partial ownership, the share of income </string>
+    <string name="textview">Provide information if income from more than one house property </string>
+    <string name="tv2">08. Aggregate of income of all house properties (1+2+3+- - - )(provide additional papers if necessary) </string>
+    <string name="et1">04. Name(s) of the business/profession
+        (as in trade licence) </string>
+    <string name="et2">04. Contribution to deposit pension scheme (not exceeding allowable
+limit) </string>
+    <string name="et3">06. Investment in approved debenture or debenture stock, Stock or Shares</string>
+    <string name="et4">07. Contribution to provident fund to which Provident Fund Act, 1925
+applies </string>
+    <string name="et5">08. Self contribution and employer’s contribution to Recognized Provident
+Fund </string>
+    <string name="et6">10. Contribution to Benevolent Fund and Group Insurance Premium</string>
+    <string name="et7">14B. ........ % of the total income [excluding any income for which a tax
+exemption or a reduced rate is applicable under sub-section (4) of
+section 44 or any income from any source or sources mentioned in
+clause (a) of sub-section (2) of section 82C.]
+</string>
+    <string name="et8">15. Amount of tax rebate calculated on eligible amount (Serial14) under
+section 44(2)(b) </string>
+    <string name="info">For individuals other than female taxpayers, senior taxpayers of 65 years
+        and above, retarded taxpayers and gazetted war-wounded freedom fighter, income tax is
+        payable for the</string>
+    <string name="info2">For female taxpayers, senior taxpayers of age 65 years and above, income
+        tax is payable for the</string>
+    <string name="com">iii. Bank, Insurance and Financial institutions (Except Merchant bank):
+
+-Publicly listed and 4th generation Banks and FI
+
+-Other Banks and FI</string>
+    <string name="pokpok">For retarded taxpayers, tax free income threshold limit is TK.3,75,000/-.\n
+For gazetted war-wounded freedom fighters, tax free income threshold limit is Tk. 4,25,000/-.\n
+        Minimum tax for any individual assessee living in Dhaka and Chittagong City Corporation area is Tk. 5,000/-.\n
+        Minimum tax for any individual assessee living in other City Corporations area is Tk. 4,000/-.\n
+        Minimum tax for any individual assessee living in any other areas is Tk. 3,000/-.\n
+Non-resident Individual 30% (other than non-resident Bangladeshi)
+    </string>
+    <string name="TV">Bangladesh Income Tax Rate for Individual Tax Payers</string>
+    <string name="TV2">Lowest Individual Tax Rate is 10% and Highest Rate is 30%
+
+For individuals other than female taxpayers, senior taxpayers of 65 years and above, retarded
+        taxpayers and Gazetted war-wounded freedom fighter, income tax payable for the</string>
+    <string name="TV3">For female taxpayers, senior taxpayers of age 65 years and above, income tax
+        payable for the</string>
+    <string name="tv3">For the purpose of computation of total income and charging tax thereon, sources of income can be classified
+into 7 categories, which are as follows :\n
+Salaries\n
+Interest on securities\n
+Income from house property\n
+Income from agriculture\n
+Income from business or profession\n
+Capital gains\n
+Income from other sources.</string>
+    <string name="tv4">Rate of Rebate:\n
+Amount of allowable investment is - actual investment or 30% of total income or Tk. 150,00,000/-\n
+whichever is less. Tax rebate amounts to 15% of allowable investment.</string>
+    <string name="tv5">In Bangladesh withholding taxes are usually termed as Tax deduction and collected at source.\n
+        Under this system both private and public limited companies or any other organization specified by law are legally
+authorized and bound to withhold taxes at some point of making payment and deposit the same to the
+Government Exchequer.\n The taxpayer receives a certificate from the withholding authority and gets credits
+of tax against assessed tax on the basis of such certificate.\n\n
+
+Time to submit return of withholding tax
+15th day of October, January, April and July
+Or extended date up to 15 days by DCT\n
+Statement of TDS, Copy of Treasury Challan /pay-orders should be submitted with the return</string>
+    <string name="text">Publicly Traded Company 27.5%\n
+Non-publicly Traded Company 35%\n
+Bank, Insurance and Financial Company (Except merchant bank) 42.5%\n
+Merchant bank 37.5%\n
+Cigarette manufacturing company 45%\n
+Publicly traded cigarette company 40%\n
+Mobile Phone Operator Company 45%\n
+Publicly traded mobile company 40%\n
+If any publicly traded company declares more than 30% cash dividend, tax rate would be 24.75%\n and if
+declares less than 10% dividend,tax rate would be 35%.\n
+If any non publicly traded company transfers minimum of 20% shares of its paid-up capital through\n
+IPO(Initial Public Offering)it would get 10% rebate on total tax in the year of transfer.</string>
+    <string name="text2">All earned income in Bangladesh from capital gains is taxed the same as regular income.</string>
+    <string name="text3">By fifteenth day of July next following the income year or, where the fifteenth day of
+        July falls before the expiry of six months from the end of the income year, before the
+        expiry of such six months.</string>
+    <string name="text4">Unless the date is extended, by the Thirtieth day of September next
+        following the income year.</string>
+</resources>
